@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: simple_library
+Version: 0.1.0
+Summary: A simple example library
+Home-page: https://github.com/Char-1232323/simple_library
+Author: Zha Fei
+Author-email: 2164242181@qq.com
+License: MIT
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Simple Library
+
+A simple example Python library for demonstration purposes.
+
+## Installation
+
+You can install the library using pip:
+
+## Usage
+
+```python
+from simple_lib import greet
+
+print(greet("World"))
